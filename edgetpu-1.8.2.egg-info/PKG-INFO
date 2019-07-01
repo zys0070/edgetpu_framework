@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: edgetpu
+Version: 1.8.2
+Summary: EdgeTPU Python API
+Home-page: https://coral.googlesource.com/edgetpu
+Author: Coral
+Author-email: coral-support@google.com
+License: Apache 2
+Description: # Edge TPU Python API
+        
+        This repository contains an easy-to-use Python API to work with Coral devices:
+        
+        * [Dev Board](https://coral.withgoogle.com/products/dev-board/)
+        * [USB Accelerator](https://coral.withgoogle.com/products/accelerator/)
+        
+        You can run inference and do transfer learning.
+        
+Platform: UNKNOWN
+Requires-Python: >=3.5.3
